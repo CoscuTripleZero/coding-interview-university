@@ -1,4 +1,4 @@
-# Coding Interview University
+﻿# Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -198,7 +198,7 @@ Everything below is an outline, and you should tackle the items in order from to
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+**Create a new branch so you can check items like this, just put an x in the brackets: []**
 
 
     Fork a branch and follow the commands below
